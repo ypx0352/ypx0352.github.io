@@ -1,0 +1,34 @@
+{
+  "topicList": [
+    {
+      "id": 0,
+      "title": "social hotspot",
+      "imgUrl": "https://images.pexels.com/photos/5896356/pexels-photo-5896356.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+      "id": 1,
+      "title": "undergraduate defrees",
+      "imgUrl": "https://www.monash.edu/__data/assets/image/0005/538277/varieties/feature.box.jpg"
+    },
+    {
+      "id": 2,
+      "title": "graduate defrees",
+      "imgUrl": "https://www.monash.edu/__data/assets/image/0006/538278/varieties/feature.box.png"
+    },
+    {
+      "id": 3,
+      "title": "online courses",
+      "imgUrl": "https://www.monash.edu/__data/assets/image/0004/2150284/varieties/feature.box.jpg"
+    },
+    {
+      "id": 4,
+      "title": "research degree",
+      "imgUrl": "https://www.monash.edu/__data/assets/image/0004/544144/Monash-Feature-Box-Research-Research-Degrees.jpg"
+    },
+    {
+      "id": 5,
+      "title": "professional development",
+      "imgUrl": "https://www.monash.edu/__data/assets/image/0007/2564953/varieties/feature.box.jpg"
+    }
+  ]
+}
