@@ -30,5 +30,12 @@
       "title": "professional development",
       "imgUrl": "https://www.monash.edu/__data/assets/image/0007/2564953/varieties/feature.box.jpg"
     }
+  ],
+  "recommendPicLisst": [
+    {
+      "id": 0,
+      "imgUrl": "https://ypx0352.github.io/docs/pics/recommend-1.png"
+    },
+    { "id": 1, "imgUrl": "https://ypx0352.github.io/docs/pics/recommend-2.png" }
   ]
 }
