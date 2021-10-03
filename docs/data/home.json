@@ -38,7 +38,15 @@
     },
     {
       "id": 1,
-      "imgUrl": "https://ypx0352.github.io/docs/pics/recommend-1.png"
+      "imgUrl": "https://ypx0352.github.io/docs/pics/recommend-2.png"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://ypx0352.github.io/docs/pics/recommend-3.png"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://ypx0352.github.io/docs/pics/recommend-4.png"
     }
   ]
 }
