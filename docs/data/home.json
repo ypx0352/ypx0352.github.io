@@ -49,5 +49,67 @@
       "imgUrl": "https://ypx0352.github.io/docs/pics/recommend-4.png"
     }
   ],
-  "qrCodeUrl":"https://ypx0352.github.io/docs/pics/qr-code.png"
+  "qrCodeUrl": "https://ypx0352.github.io/docs/pics/qr-code.png",
+  "articleList": [
+    {
+      "title": "你还喜欢发朋友圈吗？",
+      "brief": "以前总有人喜欢说：一个人越缺什么，就越喜欢炫耀什么，所以总是不停地发朋友圈。 曾经我也因为这句话，有过一段时间把自己所有动态都设为私密状态的情况...",
+      "diamondCount": 31.4,
+      "author": "王小线的生活观",
+      "commentCount": 75,
+      "likeCount": 286,
+      "picUrl": "",
+      "thanksCount":0
+    },
+    {
+      "title": "十年，我活得像个笑话",
+      "brief": "公公去世前，说把价值两千万元的房子留给我们，为了这个承诺，我一个985的高材生，活成了全职保姆，而婆婆去世后，我才明白，原来，在别人眼里，我是小...",
+      "diamondCount": 92.0,
+      "author": "流失的青春",
+      "commentCount": 244,
+      "likeCount": 628,
+      "picUrl": "",
+      "thanksCount": 0
+    },
+    {
+      "title": "喜欢独来独往的人，大都很简单",
+      "brief": "生命中，有人喜欢扎堆人群，完全受不了一个人的冷清。 还有一些人，比起不管做什么事情，都要和别人一起，她往往更喜欢一个人独来独往。 她可以一个人逛...",
+      "diamondCount": 31.2,
+      "author": "南方姑娘谭檬",
+      "commentCount": 58,
+      "likeCount": 358,
+      "picUrl": "",
+      "thanksCount": 0
+    },
+    {
+      "title": "缺心眼的外甥女",
+      "brief": "我老公的外甥女，昨天又把我气得要命。起因是她让送煤气的小伙子领进门后，又跟人瞎聊起来，还跟人互换联络方式，这下好了，对方晚上就“找”过来，通过发...",
+      "diamondCount": 348,
+      "author": "大头芝麻",
+      "commentCount": 49,
+      "likeCount": 315,
+      "picUrl": "",
+      "thanksCount": 0
+    },
+    {
+      "title": "《大赢家》：人生如戏，但不是这“三戏”",
+      "brief": "文/爱吃土豆的佩奇 西周时，一位君王为博美人一笑，烽火戏诸侯，结果为此丧命。 小学时，课本里有一个放羊的小孩，戏弄农民，撒谎骗人，结果被狼吃掉了......",
+      "diamondCount": 15.8,
+      "author": "爱吃土豆的佩奇",
+      "commentCount": 13,
+      "likeCount": 36,
+      "picUrl": "",
+      "thanksCount": 1
+    },
+    {
+      "title": "赌徒",
+      "brief": "我的一位朋友，比我年轻，也是程序员，上周在微信上找我聊。 说他亏了 500 万，我觉得他在开玩笑，他的家底我清楚，怎么可能亏500万，亏 50万...",
+      "diamondCount": 41.2,
+      "author": "灯下鼠",
+      "commentCount": 65,
+      "likeCount": 329,
+      "picUrl": "",
+      "thanksCount": 0
+    }
+  ]
 }
