@@ -59,7 +59,7 @@
       "commentCount": 75,
       "likeCount": 286,
       "picUrl": "",
-      "thanksCount":0
+      "thanksCount": 0
     },
     {
       "title": "十年，我活得像个笑话",
@@ -68,7 +68,7 @@
       "author": "流失的青春",
       "commentCount": 244,
       "likeCount": 628,
-      "picUrl": "",
+      "picUrl": "https://ypx0352.github.io/docs/pics/listPic-1.jfif",
       "thanksCount": 0
     },
     {
@@ -78,7 +78,17 @@
       "author": "南方姑娘谭檬",
       "commentCount": 58,
       "likeCount": 358,
-      "picUrl": "",
+      "picUrl": "https://ypx0352.github.io/docs/pics/listPic-2.jpg",
+      "thanksCount": 0
+    },
+    {
+      "title": "架构师常用的设计图",
+      "brief": "什么是系统架构师？ 系统架构师是一个既需要掌控整体又需要洞悉局部瓶颈并依据具体的业务场景给出解决方案的团队领导型人物。一个架构师得需要足够的想像...",
+      "diamondCount": 15.8,
+      "author": "jackcooper",
+      "commentCount": 26,
+      "likeCount": 307,
+      "picUrl": "https://ypx0352.github.io/docs/pics/listPic-3.jfif",
       "thanksCount": 0
     },
     {
@@ -98,7 +108,7 @@
       "author": "爱吃土豆的佩奇",
       "commentCount": 13,
       "likeCount": 36,
-      "picUrl": "",
+      "picUrl": "https://ypx0352.github.io/docs/pics/listPic-4.jfif",
       "thanksCount": 1
     },
     {
@@ -108,7 +118,7 @@
       "author": "灯下鼠",
       "commentCount": 65,
       "likeCount": 329,
-      "picUrl": "",
+      "picUrl": "https://ypx0352.github.io/docs/pics/listPic-5.png",
       "thanksCount": 0
     }
   ]
